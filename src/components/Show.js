@@ -24,7 +24,7 @@ const Show = () => {
 
        const deleteItem = async (id) => {
         const itemDoc = doc(db, "lista", id)
-        await deleteItem(itemDoc)
+        await deleteDoc(itemDoc)
         getItems()
        }
 

@@ -6,3 +6,4 @@ Quinto commit correcion al instalar modulos
 Sexto commit componente Show
 Septimo commit componente Create
 Octabo commit componente Edit
+Noveno commit arreglo a delete en componente show
