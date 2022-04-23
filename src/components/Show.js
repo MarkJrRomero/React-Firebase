@@ -64,14 +64,14 @@ const Show = () => {
           <table className='table table-dark table-hover'>
             <thead>
               <tr>
-                <th>Item1</th>
-                <th>Item2</th>
-                <th>Item3</th>
-                <th>Item4</th>
-                <th>Item5</th>
-                <th>Item6</th>
-                <th>Item7</th>
-                <th>Actions</th>
+                <th>Item 1</th>
+                <th>Item 2</th>
+                <th>Item 3</th>
+                <th>Item 4</th>
+                <th>Item 5</th>
+                <th>Item 6</th>
+                <th>Item 7</th>
+                <th>OPCIONES</th>
               </tr>
             </thead>
             <tbody>
