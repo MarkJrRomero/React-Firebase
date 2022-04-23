@@ -5,3 +5,4 @@ Cuarto commit configuracion firebase
 Quinto commit correcion al instalar modulos
 Sexto commit componente Show
 Septimo commit componente Create
+Octabo commit componente Edit
